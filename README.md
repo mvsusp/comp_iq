@@ -1,3 +1,8 @@
+# Running tests
+```python
+python -m unittest user_stats_tests.py
+```
+
 # Objective
 The objective of this exercise is to assess your problem solving ability and your development skill. We'll not only be looking for the logically correct solution but also for a solution that is...
 
